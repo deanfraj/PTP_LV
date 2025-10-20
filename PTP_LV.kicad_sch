@@ -2,8 +2,15 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid 572151a4-d655-4948-899a-bb108155976a)
+	(uuid "572151a4-d655-4948-899a-bb108155976a")
 	(paper "A4")
+	(title_block
+		(title "BCD brojač")
+		(date "2025-10-20")
+		(rev "0")
+		(company "TVZ - Tehničko veleučilište u Zagrebu")
+		(comment 1 "Izradio: Dean Fraj")
+	)
 	(lib_symbols)
 	(sheet_instances
 		(path "/"
